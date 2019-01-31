@@ -3,5 +3,5 @@ def sum(a,b=0):
     total = a+b
     print(total)
     return total
-
 n=sum(2,9)
+print(n)
